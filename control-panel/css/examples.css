@@ -1,0 +1,85 @@
+.header-btn .add-btn
+{
+    border: 1px solid rgba(0, 0, 0, 0.365);
+    padding: 4px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.365);
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    text-transform:capitalize;
+    color: #fff;    
+    font-size: 19px;
+}
+a:hover
+{
+    color: #fff;
+}
+.bi-plus
+{
+    color: #fff;
+}
+.product-status
+{
+    text-align: center;
+}
+.manage-color .back-color
+{
+    font-size: 11px;
+    padding: 5px;
+    border-radius: 5px;    
+}
+.manage-size .back-size
+{
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;    
+}
+
+.manage-img img
+{
+    display: flex !important;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.error-imp
+{
+    color: red;   
+    font-weight: 900;
+}
+.company-logo
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.card-body .bi-diagram-3
+{
+    font-size: 50px;
+}
+.card-body .bi-cart3
+{    
+    font-size: 50px;    
+}
+.card-body .bi-people
+{    
+    font-size: 50px;    
+}
+.card-body .bi-currency-rupee
+{    
+    font-size: 50px;    
+}
+.side-logo
+{
+    width:130;
+    height:100;
+}
+.avatar-img
+{
+    margin-right: 20px;
+    height: auto;
+    width: 100%; 
+}

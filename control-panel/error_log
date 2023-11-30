@@ -1,0 +1,114 @@
+[25-Oct-2023 14:11:52 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:11:52 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:11:59 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:11:59 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:12:04 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:12:04 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:12:46 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:12:46 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:12:52 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:12:52 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:13:26 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 14:13:26 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 16:48:20 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 16:48:20 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 16:48:24 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[25-Oct-2023 16:48:24 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[26-Oct-2023 15:21:34 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[26-Oct-2023 15:21:34 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[26-Oct-2023 15:21:48 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[26-Oct-2023 15:21:48 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[26-Oct-2023 16:32:22 UTC] PHP Warning:  Undefined variable $update_size_quantity_query in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[26-Oct-2023 16:32:22 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php:60
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 60
+[27-Oct-2023 15:22:05 UTC] PHP Warning:  Undefined array key "extension" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 38
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Undefined array key "category_name" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 5
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Undefined array key "gender_type" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 6
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Undefined array key "product_name" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 7
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Undefined array key "product_code" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 8
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Undefined array key "product_color" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 9
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Undefined array key "product_price" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 10
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Undefined array key "product_discount" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 11
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Undefined array key "product_desc" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 12
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Undefined array key "Product_Images" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 33
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 33
+[28-Oct-2023 06:50:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 33
+[28-Oct-2023 06:58:21 UTC] PHP Warning:  Undefined array key "sizeqty_id" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 29
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Undefined array key "category_name" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 5
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Undefined array key "gender_type" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 6
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Undefined array key "product_name" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 7
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Undefined array key "product_code" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 8
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Undefined array key "product_color" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 9
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Undefined array key "product_price" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 10
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Undefined array key "product_discount" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 11
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Undefined array key "product_desc" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 12
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Undefined array key "Product_Images" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 33
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 33
+[28-Oct-2023 07:09:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 33
+[28-Oct-2023 07:11:45 UTC] PHP Warning:  Undefined array key "sizeqty_id" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/update_product.php on line 29
+[28-Oct-2023 07:17:24 UTC] PHP Warning:  Undefined array key "extension" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/save_product.php on line 38
+[31-Oct-2023 11:38:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC' at line 5 in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php:47
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php on line 47
+[31-Oct-2023 11:38:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC' at line 5 in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php:47
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php on line 47
+[31-Oct-2023 11:39:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY DESC' at line 5 in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php:47
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php on line 47
+[31-Oct-2023 11:40:36 UTC] PHP Parse error:  syntax error, unexpected double-quote mark, expecting ")" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php on line 51
+[31-Oct-2023 11:40:45 UTC] PHP Parse error:  syntax error, unexpected double-quote mark, expecting ")" in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_order_list.php on line 51
+[31-Oct-2023 11:44:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC' at line 1 in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_address_list.php:23
+Stack trace:
+#0 /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_address_list.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/x48ikm19b9dg/public_html/ariive.co.in/control-panel/customer_address_list.php on line 23
